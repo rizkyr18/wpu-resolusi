@@ -3,4 +3,6 @@ RENCANA BELAJAR WPU
   *teori
   *praktek
 - css
+ *dasar-dasar css
+ *css layouting
 - javascript

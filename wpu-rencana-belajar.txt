@@ -7,4 +7,6 @@ RENCANA BELAJAR WPU
  *css layouting
 - javascript
  *Framework js :
-  *angular
+  * vue js
+  * react js
+- Figma

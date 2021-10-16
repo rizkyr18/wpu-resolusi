@@ -1,4 +1,5 @@
 WPU RESOLUSI
 - konsisten untuk mempelajari ilmu mengenai front end developer
-- membuat project yang berkaitan dengan front end
+- mengikuti seminar atau bootcamp coding
 - mencari forum diskusi
+- membuat project kecil-kecilan yang berkaitan dengan front end

@@ -1,0 +1,6 @@
+RENCANA BELAJAR WPU
+- html
+  *teori
+  *praktek
+- css
+- javascript

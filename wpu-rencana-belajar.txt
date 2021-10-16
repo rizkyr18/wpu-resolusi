@@ -6,3 +6,7 @@ RENCANA BELAJAR WPU
  *dasar-dasar css
  *css layouting
 - javascript
+ *Framework js :
+  * vue js
+  * react js
+- Figma
